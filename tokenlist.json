@@ -1,0 +1,21 @@
+{
+  "name": "Baco's Token List",
+  "logoURI": "https://raw.githubusercontent.com/aymet1/baco-token-list/main/logo.png",
+  "keywords": [
+    "baco",
+    "token",
+    "hzn",
+    "haznadar"
+  ],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xb48fa24f26764c3e18aff4da421f343e5e8ddf5d",
+      "symbol": "BACO",
+      "name": "Baco's",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/aymet1/baco-token-list/main/logo.png"
+    }
+  ],
+  "timestamp": "2025-07-07T00:00:00+00:00"
+}
